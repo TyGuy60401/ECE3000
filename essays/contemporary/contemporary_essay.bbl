@@ -44,10 +44,144 @@
       \field{title}{It's Time to Redefine Moore's Law Again}
       \field{volume}{50}
       \field{year}{2017}
+      \true{nocite}
       \field{pages}{72\bibrangedash 75}
       \range{pages}{4}
       \verb{doi}
       \verb 10.1109/MC.2017.34
+      \endverb
+    \endentry
+    \entry{1677462}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c780e4e13e1ce42f9245b77dfbb4f4c}{%
+           family={Mollick},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c780e4e13e1ce42f9245b77dfbb4f4c}
+      \strng{fullhash}{7c780e4e13e1ce42f9245b77dfbb4f4c}
+      \strng{bibnamehash}{7c780e4e13e1ce42f9245b77dfbb4f4c}
+      \strng{authorbibnamehash}{7c780e4e13e1ce42f9245b77dfbb4f4c}
+      \strng{authornamehash}{7c780e4e13e1ce42f9245b77dfbb4f4c}
+      \strng{authorfullhash}{7c780e4e13e1ce42f9245b77dfbb4f4c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Annals of the History of Computing}
+      \field{number}{3}
+      \field{title}{Establishing Moore's Law}
+      \field{volume}{28}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{62\bibrangedash 75}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/MAHC.2006.45
+      \endverb
+    \endentry
+    \entry{4785860}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=a255a2fb9a29fa4fcefff49cef9b78bd}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Gordon\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{a255a2fb9a29fa4fcefff49cef9b78bd}
+      \strng{fullhash}{a255a2fb9a29fa4fcefff49cef9b78bd}
+      \strng{bibnamehash}{a255a2fb9a29fa4fcefff49cef9b78bd}
+      \strng{authorbibnamehash}{a255a2fb9a29fa4fcefff49cef9b78bd}
+      \strng{authornamehash}{a255a2fb9a29fa4fcefff49cef9b78bd}
+      \strng{authorfullhash}{a255a2fb9a29fa4fcefff49cef9b78bd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Solid-State Circuits Society Newsletter}
+      \field{number}{3}
+      \field{title}{Cramming more components onto integrated circuits, Reprinted from Electronics, volume 38, number 8, April 19, 1965, pp.114 ff.}
+      \field{volume}{11}
+      \field{year}{2006}
+      \field{pages}{33\bibrangedash 35}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1109/N-SSC.2006.4785860
+      \endverb
+    \endentry
+    \entry{9792148}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=679a2be46973b3c4b877f94b0adcdc03}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Samuel\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{fullhash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{bibnamehash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{authorbibnamehash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{authornamehash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{authorfullhash}{679a2be46973b3c4b877f94b0adcdc03}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Spectrum}
+      \field{number}{6}
+      \field{title}{3 Paths to 3D Processors}
+      \field{volume}{59}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{24\bibrangedash 29}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MSPEC.2022.9792148
+      \endverb
+    \endentry
+    \entry{9976473}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c81745405c046330d2ef97545fbc5d40}{%
+           family={Radosavljevic},
+           familyi={R\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e6b4cb3c9c877a9fd8d80f9ef7bc701}{%
+           family={Kavalieros},
+           familyi={K\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f7b4a326313a969b06e0a0376bf5b4fc}
+      \strng{fullhash}{f7b4a326313a969b06e0a0376bf5b4fc}
+      \strng{bibnamehash}{f7b4a326313a969b06e0a0376bf5b4fc}
+      \strng{authorbibnamehash}{f7b4a326313a969b06e0a0376bf5b4fc}
+      \strng{authornamehash}{f7b4a326313a969b06e0a0376bf5b4fc}
+      \strng{authorfullhash}{f7b4a326313a969b06e0a0376bf5b4fc}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Spectrum}
+      \field{number}{12}
+      \field{title}{Taking Moore's Law to New Heights: When transistors can't get any smaller, the only direction is up}
+      \field{volume}{59}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{32\bibrangedash 37}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MSPEC.2022.9976473
       \endverb
     \endentry
     \entry{7878935}{article}{}
@@ -76,7 +210,7 @@
       \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Computing in Science Engineering}
+      \field{journaltitle}{Computing in Science \& Engineering}
       \field{number}{2}
       \field{title}{The End of Moore's Law: A New Beginning for Information Technology}
       \field{volume}{19}
@@ -86,6 +220,38 @@
       \range{pages}{10}
       \verb{doi}
       \verb 10.1109/MCSE.2017.29
+      \endverb
+    \endentry
+    \entry{7878940}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c30d94799e86116728a7987a8e774ae1}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi Stanley},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c30d94799e86116728a7987a8e774ae1}
+      \strng{fullhash}{c30d94799e86116728a7987a8e774ae1}
+      \strng{bibnamehash}{c30d94799e86116728a7987a8e774ae1}
+      \strng{authorbibnamehash}{c30d94799e86116728a7987a8e774ae1}
+      \strng{authornamehash}{c30d94799e86116728a7987a8e774ae1}
+      \strng{authorfullhash}{c30d94799e86116728a7987a8e774ae1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing in Science \& Engineering}
+      \field{number}{2}
+      \field{title}{What's Next? [The end of Moore's law]}
+      \field{volume}{19}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{7\bibrangedash 13}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/MCSE.2017.31
       \endverb
     \endentry
   \enddatalist
