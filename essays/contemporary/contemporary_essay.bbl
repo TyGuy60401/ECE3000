@@ -16,5 +16,79 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{7842840}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13b4a00f97c7dbb00a85ca22f8ac82be}{%
+           family={DeBenedictis},
+           familyi={D\bibinitperiod},
+           given={Erik\bibnamedelima P.},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13b4a00f97c7dbb00a85ca22f8ac82be}
+      \strng{fullhash}{13b4a00f97c7dbb00a85ca22f8ac82be}
+      \strng{bibnamehash}{13b4a00f97c7dbb00a85ca22f8ac82be}
+      \strng{authorbibnamehash}{13b4a00f97c7dbb00a85ca22f8ac82be}
+      \strng{authornamehash}{13b4a00f97c7dbb00a85ca22f8ac82be}
+      \strng{authorfullhash}{13b4a00f97c7dbb00a85ca22f8ac82be}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer}
+      \field{number}{2}
+      \field{title}{It's Time to Redefine Moore's Law Again}
+      \field{volume}{50}
+      \field{year}{2017}
+      \field{pages}{72\bibrangedash 75}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/MC.2017.34
+      \endverb
+    \endentry
+    \entry{7878935}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b401633d5c082a1dba10bbd8835400ca}{%
+           family={Theis},
+           familyi={T\bibinitperiod},
+           given={Thomas\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60526d097df26e16f0535b4b1d5f7e5c}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={H.-S.\bibnamedelimi Philip},
+           giveni={H\bibinithyphendelim S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c1c49679c92ceefc12d12438cf28794}
+      \strng{fullhash}{2c1c49679c92ceefc12d12438cf28794}
+      \strng{bibnamehash}{2c1c49679c92ceefc12d12438cf28794}
+      \strng{authorbibnamehash}{2c1c49679c92ceefc12d12438cf28794}
+      \strng{authornamehash}{2c1c49679c92ceefc12d12438cf28794}
+      \strng{authorfullhash}{2c1c49679c92ceefc12d12438cf28794}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing in Science Engineering}
+      \field{number}{2}
+      \field{title}{The End of Moore's Law: A New Beginning for Information Technology}
+      \field{volume}{19}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{41\bibrangedash 50}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/MCSE.2017.29
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
