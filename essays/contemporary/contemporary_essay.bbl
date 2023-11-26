@@ -215,7 +215,6 @@
       \field{title}{The End of Moore's Law: A New Beginning for Information Technology}
       \field{volume}{19}
       \field{year}{2017}
-      \true{nocite}
       \field{pages}{41\bibrangedash 50}
       \range{pages}{10}
       \verb{doi}
