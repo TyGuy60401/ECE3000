@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.5)  26 NOV 2023 17:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.5)  26 NOV 2023 23:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -602,16 +602,15 @@ Package biblatex Info: ... file 'contemporary_essay.bbl' found.
  (contemporary_essay.bbl)
 Package biblatex Info: Reference section=0 on input line 53.
 Package biblatex Info: Reference segment=0 on input line 53.
- [1{C:/Users/tydav/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/tydav/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
-
-]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 143.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 143.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 143.
- [2] [3] [4] (contemporary_essay.aux)
+ [1{C:/Users/tydav/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/tydav/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+] [2] [3] (contemporary_essay.aux)
 Package rerunfilecheck Info: File `contemporary_essay.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'contemporary_essay.run.xml'.
@@ -620,16 +619,16 @@ Package logreq Info: Writing requests to 'contemporary_essay.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  18703 strings out of 476331
- 339028 string characters out of 5787766
- 1860660 words of memory out of 5000000
+ 339034 string characters out of 5787766
+ 1863660 words of memory out of 5000000
  38909 multiletter control sequences out of 15000+600000
  520425 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,744b,4387s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/tydav/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/tydav/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/tydav/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/tydav/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on contemporary_essay.pdf (4 pages, 62653 bytes).
+Output written on contemporary_essay.pdf (3 pages, 62552 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

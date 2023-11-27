@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber contemporary_essay"] 1701042780 "contemporary_essay.bcf" "contemporary_essay.bbl" "contemporary_essay" 1701043449 0
+["biber contemporary_essay"] 1701065347 "contemporary_essay.bcf" "contemporary_essay.bbl" "contemporary_essay" 1701065376 0
   "./refs.bib" 1701035538 1899 fd0ab7d04b1bdc7fa833da2da2f26ada ""
-  "contemporary_essay.bcf" 1701043449 125519 8bb7966c7c2908d152941c8a6dc6e944 "pdflatex"
+  "contemporary_essay.bcf" 1701065375 125581 e2d33d15261566c64fa2ffc25e708590 "pdflatex"
   (generated)
   "contemporary_essay.bbl"
   "contemporary_essay.blg"
   (rewritten before read)
-["pdflatex"] 1701043446 "c:/Users/tydav/gitLocals/ECE3000/essays/contemporary/contemporary_essay.tex" "contemporary_essay.pdf" "contemporary_essay" 1701043449 0
+["pdflatex"] 1701065373 "c:/Users/tydav/gitLocals/ECE3000/essays/contemporary/contemporary_essay.tex" "contemporary_essay.pdf" "contemporary_essay" 1701065376 0
   "C:/Users/tydav/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1700958854 203226 862895ce1953c9c2d946f041b1510a27 ""
   "C:/Users/tydav/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1693936554 23178959 27ac4a0f188a5d3cffdae929a5501b80 ""
   "C:/Users/tydav/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458470287 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -113,12 +113,12 @@
   "C:/Users/tydav/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/tydav/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/tydav/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/tydav/gitLocals/ECE3000/essays/contemporary/contemporary_essay.tex" 1701043427 6837 20efd995042ad90366fcc1ff56ddbdf3 ""
-  "contemporary_essay.aux" 1701043449 1555 f503e0a0864272d5c353e321377f8b53 "pdflatex"
-  "contemporary_essay.bbl" 1701042783 10047 b13ab5d8e9507d20a9d0cc3c4d797184 "biber contemporary_essay"
-  "contemporary_essay.out" 1701043448 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "contemporary_essay.run.xml" 1701043449 2590 666bffd15612e3137996caed5943aebd "pdflatex"
-  "contemporary_essay.tex" 1701043427 6837 20efd995042ad90366fcc1ff56ddbdf3 ""
+  "c:/Users/tydav/gitLocals/ECE3000/essays/contemporary/contemporary_essay.tex" 1701065369 7409 bb6cf613ea14f328dbc4cbfd3780009a ""
+  "contemporary_essay.aux" 1701065375 1610 db9963050c61591483db4202b95390a2 "pdflatex"
+  "contemporary_essay.bbl" 1701065350 10047 b13ab5d8e9507d20a9d0cc3c4d797184 "biber contemporary_essay"
+  "contemporary_essay.out" 1701065375 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "contemporary_essay.run.xml" 1701065375 2590 666bffd15612e3137996caed5943aebd "pdflatex"
+  "contemporary_essay.tex" 1701065369 7409 bb6cf613ea14f328dbc4cbfd3780009a ""
   (generated)
   "contemporary_essay.aux"
   "contemporary_essay.bcf"

@@ -702,10 +702,6 @@ INPUT contemporary_essay.bbl
 INPUT .\contemporary_essay.bbl
 INPUT .\contemporary_essay.bbl
 INPUT contemporary_essay.bbl
-INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\tydav\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -714,6 +710,10 @@ INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\tydav\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\tydav\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
