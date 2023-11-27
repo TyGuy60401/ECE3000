@@ -139,7 +139,6 @@
       \field{title}{3 Paths to 3D Processors}
       \field{volume}{59}
       \field{year}{2022}
-      \true{nocite}
       \field{pages}{24\bibrangedash 29}
       \range{pages}{6}
       \verb{doi}
@@ -177,7 +176,6 @@
       \field{title}{Taking Moore's Law to New Heights: When transistors can't get any smaller, the only direction is up}
       \field{volume}{59}
       \field{year}{2022}
-      \true{nocite}
       \field{pages}{32\bibrangedash 37}
       \range{pages}{6}
       \verb{doi}

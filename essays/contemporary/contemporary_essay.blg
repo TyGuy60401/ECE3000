@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'contemporary_essay.blg'
-[157] biber-MSWIN64:340> INFO - === 
-[215] Biber.pm:419> INFO - Reading 'contemporary_essay.bcf'
-[401] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[423] Biber.pm:4419> INFO - Processing section 0
-[439] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
-[521] bibtex.pm:1713> INFO - LaTeX decoding ...
-[542] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[634] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[634] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[634] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[634] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[645] bbl.pm:660> INFO - Writing 'contemporary_essay.bbl' with encoding 'UTF-8'
-[649] bbl.pm:763> INFO - Output to contemporary_essay.bbl
+[174] biber-MSWIN64:340> INFO - === 
+[229] Biber.pm:419> INFO - Reading 'contemporary_essay.bcf'
+[406] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[426] Biber.pm:4419> INFO - Processing section 0
+[441] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
+[503] bibtex.pm:1713> INFO - LaTeX decoding ...
+[525] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
+[610] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[610] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[611] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[611] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[619] bbl.pm:660> INFO - Writing 'contemporary_essay.bbl' with encoding 'UTF-8'
+[623] bbl.pm:763> INFO - Output to contemporary_essay.bbl
